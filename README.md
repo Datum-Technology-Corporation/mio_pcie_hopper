@@ -1,2 +1,2 @@
-# Moore.io Hopper Template
-Moore.io's Hopper Repository Template
+# Moore.io PCIe Hopper
+Moore.io's hopper of PCIe IP, VIP & Script packages.
