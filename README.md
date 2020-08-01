@@ -1,2 +1,2 @@
-# Moore.io PCIe Hopper
-Moore.io's hopper of PCIe IP, VIP & Script packages.
+# Moore.io PCIe Project
+Moore.io's collection of PCIe IP, VIP & Script packages.
